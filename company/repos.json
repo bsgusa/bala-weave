@@ -1,0 +1,69 @@
+{
+  "generatedFrom": "bala-weave ROADMAP.md contribution surface",
+  "note": "Repositories that accept contributions via bala-weave templates. All templates apply repo-agnostically.",
+  "repositories": [
+    {
+      "repo": "bsgusa/bala-weave",
+      "localPath": "~/bala-weave",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Connective tissue — PR templates, issue templates, good-first-issues"
+    },
+    {
+      "repo": "bsgusa/bala-nexus",
+      "localPath": "~/bala-nexus",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Hub — accepts world-map corrections and connection additions"
+    },
+    {
+      "repo": "bsgusa/bala-pulse",
+      "localPath": "~/bala-pulse",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Trending intelligence — accepts signal-source suggestions"
+    },
+    {
+      "repo": "bsgusa/bala-voice",
+      "localPath": "~/bala-voice",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Public engagement — accepts engagement-template improvements"
+    },
+    {
+      "repo": "bsgusa/bala-archives",
+      "localPath": "~/bala-archives",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Identity — accepts archive corrections and portfolio additions"
+    },
+    {
+      "repo": "bsgusa/command-center-bala",
+      "localPath": "~/Command_Center_Bala_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Nerve center — accepts ops/dashboard contributions"
+    },
+    {
+      "repo": "bsgusa/balamonis_group_main",
+      "localPath": "~/Balamonis_Group_Main_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Shared core — accepts platform/contract contributions"
+    },
+    {
+      "repo": "bsgusa/balamonis-media",
+      "localPath": "~/Balamonis_Media_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Media studio — accepts studio contributions"
+    },
+    {
+      "repo": "bsgusa/AI-Job-Automation",
+      "localPath": "~/AI-Job-Automation",
+      "branch": "main",
+      "entity": "lexora-ai-llc",
+      "role": "Lexora AI LLC product — accepts product contributions"
+    }
+  ]
+}
