@@ -34,3 +34,16 @@ This repo still referenced the old slug.
 - README / docs references updated to the new slugs. Local checkout paths unchanged
   (`~/AI-Job-Automation`, `~/company-lexoraai` — the directories were not renamed).
 - Historical entries above are left as-is.
+
+## 2026-11-01 — CI fixed: missing PR template + self-matching claims grep
+
+CI had been red since the scaffold (2026-10-23), for two reasons:
+
+1. The claims grep included `.github/`, which contains `ci.yml` itself — the
+   file with the forbidden-phrase pattern. Fixed with `--exclude-dir=workflows`.
+2. CI required `.github/PULL_REQUEST_TEMPLATE.md`, but the file was never
+   created (it was a [NEXT] item). Created it from the template the README
+   documents verbatim (What / Which repo / Connection / Checks).
+
+- WV-002 marked DONE; ROADMAP [NEXT] updated.
+- Verified: all CI steps pass locally; CI green on `main` (290dfdf).

@@ -17,7 +17,7 @@
 
 ## [NEXT] Activate contributions
 
-- [ ] `.github/PULL_REQUEST_TEMPLATE.md` — the standard PR template
+- [x] `.github/PULL_REQUEST_TEMPLATE.md` — the standard PR template (created 2026-11-01; CI required it)
 - [ ] `.github/ISSUE_TEMPLATE/` — structured issue templates
 - [ ] `docs/CONTRIBUTING.md` — end-to-end: find repo → read AGENTS.md → pick issue → branch → PR
 - [ ] `docs/GOOD_FIRST_ISSUES.md` — curated starter issues per repo
