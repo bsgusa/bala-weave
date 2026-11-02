@@ -35,7 +35,7 @@ We welcome contributions. We review them in public. We credit them in public.
 One sentence: what this changes and why.
 
 ## Which repo
-The repo this PR targets (e.g. bala-nexus, AI-Job-Automation).
+The repo this PR targets (e.g. bala-nexus, company-lexora-legal).
 
 ## Connection
 Which other repo or venture does this touch? (per bala-nexus map)

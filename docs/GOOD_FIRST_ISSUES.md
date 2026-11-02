@@ -27,7 +27,7 @@ Curated starter issues per repo. Anyone can pick one and send a PR.
 - Add an issue template to .github/ISSUE_TEMPLATE/
 - Add a good-first-issue entry for your favorite repo
 
-## command-center-bala / balamonis_group_main / balamonis-media / AI-Job-Automation
+## command-center-bala / balamonis_group_main / balamonis-media / company-lexora-legal / company-lexora-jobs
 - Read that repo's AGENTS.md and pick its top `[NOW]` good-first-issue
 
 ## How to claim one
